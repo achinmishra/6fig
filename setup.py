@@ -37,6 +37,6 @@ setup(
         "typing==3.6.6",
         "urllib3==1.23",
         "virtualenv==16.0.0",
-        "Werkzeug==0.14.1"
+        "Werkzeug==0.15.3"
     ],
 )
