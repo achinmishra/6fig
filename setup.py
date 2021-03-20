@@ -26,7 +26,7 @@ setup(
         "inflection==0.3.1",
         "injector==0.12.0",
         "itsdangerous==0.24",
-        "Jinja2==2.10",
+        "Jinja2==2.11.3",
         "jsonschema==2.6.0",
         "MarkupSafe==1.0",
         "PyYAML==3.13",
