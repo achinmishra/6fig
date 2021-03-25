@@ -29,7 +29,7 @@ setup(
         "Jinja2==2.10",
         "jsonschema==2.6.0",
         "MarkupSafe==1.0",
-        "PyYAML==3.13",
+        "PyYAML==5.4",
         "requests==2.19.1",
         "selenium==3.14.0",
         "six==1.11.0",
