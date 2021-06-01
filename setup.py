@@ -35,7 +35,7 @@ setup(
         "six==1.11.0",
         "swagger-spec-validator==2.4.0",
         "typing==3.6.6",
-        "urllib3==1.23",
+        "urllib3==1.26.5",
         "virtualenv==16.0.0",
         "Werkzeug==0.14.1"
     ],
