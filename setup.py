@@ -12,7 +12,7 @@ setup(
     python_requires='>=3.5',
     install_requires=[
         "boto==2.49.0",
-        "certifi==2018.8.24",
+        "certifi==2022.12.7",
         "chardet==3.0.4",
         "click==6.7",
         "clickclick==1.2.2",
